@@ -1,5 +1,10 @@
 import javax.swing.JOptionPane;
 
+/* 
+
+@author Albert Perez
+
+*/
 public class CalculadoraInversaApp {
 
 	public static void main(String[] args) {

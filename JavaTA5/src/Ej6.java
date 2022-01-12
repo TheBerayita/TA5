@@ -1,5 +1,9 @@
 import javax.swing.JOptionPane;
+/* 
 
+@author Albert Perez
+
+*/
 public class Ej6 {
 	final public static double iva = 0.21;
 	public static void main(String[] args) {

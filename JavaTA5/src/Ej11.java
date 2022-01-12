@@ -1,5 +1,9 @@
 import javax.swing.JOptionPane;
+/* 
 
+@author Albert Perez
+
+*/
 public class Ej11 {
 
 	public static void main(String[] args) {

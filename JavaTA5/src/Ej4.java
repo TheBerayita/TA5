@@ -1,5 +1,9 @@
 import javax.swing.JOptionPane;
+/* 
 
+@author Albert Perez
+
+*/
 public class Ej4 {
 	final public static double npi = Math.PI;
 	
